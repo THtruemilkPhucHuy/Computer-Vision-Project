@@ -1,0 +1,10 @@
+# PyTorch + TorchVision: install a compatible pair for your OS/CUDA from https://pytorch.org/get-started/locally/
+torch
+torchvision
+numpy
+Pillow
+matplotlib
+tqdm
+streamlit
+jupyterlab>=4.0
+ipykernel>=6.0

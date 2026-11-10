@@ -1,0 +1,6 @@
+CLASSIFICATION REPORT (Test set)
+
+Class          Precision      Recall    F1-score   Support
+Fire              0.9216      0.9815      0.9506       755
+Neutral           0.8724      0.8689      0.8706       244
+Smoke             0.0000      0.0000      0.0000        48

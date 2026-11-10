@@ -1,0 +1,16 @@
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.csproj.AssemblyReference.cache
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.GeneratedMSBuildEditorConfig.editorconfig
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.csproj.CoreCompileInputs.cache
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\bin\Release\WildfireIntelligence.exe.config
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\bin\Release\WildfireIntelligence.exe
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\bin\Release\WildfireIntelligence.pdb
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.exe
+D:\BtapLonComputerVision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.pdb
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\bin\Release\WildfireIntelligence.exe.config
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\bin\Release\WildfireIntelligence.exe
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\bin\Release\WildfireIntelligence.pdb
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.csproj.AssemblyReference.cache
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.csproj.CoreCompileInputs.cache
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.exe
+D:\Major Assignment - Computer Vision\Wildfire-Detection-AutoSetup-Notebook-Python\obj\Release\WildfireIntelligence.pdb
